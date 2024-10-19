@@ -10,13 +10,13 @@ This repository showcases a collection of searching algorithms implemented in Ja
 
 ## Available Searching Methods 📑
 
-1. 📏 **Linear Search**  
+1. **Linear Search** 📏
    A straightforward method that checks each element one by one until the target is found. Suitable for unsorted arrays or small datasets.
 
    - ⏳ **Time Complexity**: O(n)
    - 🛸 **Space Complexity**: O(1)
 
-2. 📶 **Binary Search**  
+2. **Binary Search** 📶  
    A faster approach that requires the array to be sorted. It works by repeatedly dividing the search interval in half until the element is found.
 
    - ⏳ **Time Complexity**: O(log n)
