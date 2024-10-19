@@ -10,7 +10,7 @@ This repository showcases a collection of searching algorithms implemented in Ja
 
 ## Available Searching Methods 📑
 
-1. **Linear Search** 📏
+1. **Linear Search** 📏  
    A straightforward method that checks each element one by one until the target is found. Suitable for unsorted arrays or small datasets.
 
    - ⏳ **Time Complexity**: O(n)
@@ -30,9 +30,7 @@ This repository showcases a collection of searching algorithms implemented in Ja
 ## Files 📂
 
 - `LinearSearch.java`  
-  Contains the implementation of the linear search algorithm.
+  Contains the implementation of the Linear Search Algorithm.
 
 - `BinarySearch.java`  
-  Contains the implementation of the binary search algorithm.
-
-
+  Contains the implementation of the Binary Search Algorithm.
