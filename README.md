@@ -1,6 +1,6 @@
 # Searching Techniques 🔍
 
-Searching algorithms are techniques used to find specific elements within an array efficiently. Each algorithm has a unique approach, suitable for different situations depending on factors like the size of the array and whether it’s sorted or unsorted. Selecting the right method can optimize performance in various scenarios.
+Searching Algorithms are techniques used to find specific elements within an array efficiently. Each algorithm has a unique approach, suitable for different situations depending on factors like the size of the array and whether it’s sorted or unsorted. Selecting the right method can optimize performance in various scenarios.
 
 ## Table of Contents 📑
 - [Available Searching Methods](#available-searching-methods)
