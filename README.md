@@ -1,5 +1,4 @@
-
-# 🔍 Searching Techniques
+# Searching Techniques 🔍
 
 This repository showcases a collection of searching algorithms implemented in Java. These methods are used to locate elements in arrays efficiently. Choose the right one depending on the scenario!
 
